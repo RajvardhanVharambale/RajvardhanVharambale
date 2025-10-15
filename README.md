@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajvardhan Vharambale</h1>
 <h3 align="center">🧩 Always curious to experiment, learn, and build creative projects. A passionate frontend developer.</h3>
 
-<p align="center">
+<p align="left">
   🎓 <b>CSE Sophomore</b> at DY Patil College of Engineering and Technology, Kolhapur<br>
   💻 Passionate about <b>Web Development</b>, Open Source, and Exploring New Things<br>
   🚀 Loud and Proud: <b>Cool Developer</b><br>
