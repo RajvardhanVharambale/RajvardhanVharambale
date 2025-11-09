@@ -5,10 +5,10 @@
   🎓 <b>CSE Sophomore</b> at DY Patil College of Engineering and Technology, Kolhapur<br>
   💻 Passionate about <b>Web Development</b>, Open Source, and Exploring New Things<br>
   🚀 Loud and Proud: <b>Cool Developer</b><br>
-  🤝 Active in: <b>NSS</b>, <b>E-cell</b>
+  🤝 Active in: <b>NSS</b>, <b>Prambha Development Cell</b>
 </p>
 
-- 🌱 I’m currently learning **Python.**
+
 - 📫 How to reach me: <a href="mailto:rajvardhan2416@gmail.com">rajvardhan2416@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
